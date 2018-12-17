@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//program to find power of 3 larger than 100
 int main(void){
 
     int product = 3;
