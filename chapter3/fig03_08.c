@@ -26,7 +26,7 @@ int main(void){
   }
 
   if(counter != 0){
-    average = (float)total / counter;
+    average = (float)total / counter; //using cast operator
     printf("Class average is %.2f\n", average);
   }
   else{
