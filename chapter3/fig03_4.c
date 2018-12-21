@@ -7,8 +7,8 @@ int main(void){
 
   while(x <= 10){
 
-    sum = sum + x;
-    x++;
+    sum = sum + x++;
+
   }
 
   printf("The sum is: %d\n", sum);
