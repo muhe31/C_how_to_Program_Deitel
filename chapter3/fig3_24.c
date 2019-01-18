@@ -11,7 +11,22 @@ Write a pseudocode program and then a program that inputs a series of
 #include <stdio.h>
 int main(void){
 
-  int counter;
+  int counter = 1;
   int number;
-  int largest;
+  int largest = 0;
+
+
+    while(counter <= 10){
+
+      printf("Enter a number: ");
+      scanf("%d", &number);
+
+      if(number > largest){
+        largest = number;
+      }
+      counter++;
+    }
+
+    printf("The largest number is: %d\n", largest);
+  return 0;
 }
