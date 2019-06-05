@@ -3,8 +3,8 @@
 int main(void){
 
   int i=1, j=1;
-  int row ;
-  int column;
+  int row =0 ;
+  int column =0;
 
   printf("enter row: ");
   scanf("%d", &row);
