@@ -7,6 +7,8 @@ int main(void){
 
     for(number =1; number <=100; number += 2){
         sum += number;
+
+        printf("%d\n", sum);
     }
 
     return 0; 
