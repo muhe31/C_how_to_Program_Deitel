@@ -6,7 +6,7 @@ int main(void){
     int factorial = 1;
     int backup;
     int i=1;
-    float sum = 0; 
+    float sum = 1; 
 
     printf("enter a positive integer: ");
     scanf("%d", &number);
