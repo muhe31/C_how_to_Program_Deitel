@@ -2,14 +2,13 @@
 
 int main(void){
 
-    int counter = 1; 
+    int counter =1;
 
-    do{ 
+    do{
         printf("%d ", counter);
-        
+
     }while(++counter <= 10);
 
     printf("\n");
-
     return 0; 
 }
