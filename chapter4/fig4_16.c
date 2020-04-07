@@ -1,5 +1,5 @@
 #include <stdio.h> 
-
+//equilateral triangle 
 int main(void){
     int n, i, j; 
 
