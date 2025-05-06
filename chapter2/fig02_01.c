@@ -8,6 +8,7 @@
 int main( void){
 
 printf( " Welcome to C programming \n");
+printf( " This is your programmer \n");
 
 return 0; /*indicate the program has ended */
 

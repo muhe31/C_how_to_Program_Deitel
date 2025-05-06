@@ -1,4 +1,4 @@
-/*fig. 2.4: fig02_04.c
+ /*fig. 2.4: fig02_04.c
 	printing multiple lines with a single printf*/
 #include <stdio.h>
 int main(void){
