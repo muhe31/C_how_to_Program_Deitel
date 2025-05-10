@@ -3,11 +3,12 @@
 
 #include <stdio.h> 
 
-//function main begins program execution
+/*function main begins program execution*/
 int main( void ){
 
-	printf("Welcome ");
+	printf("Welcome \n");
 	printf("to C! Muhammed Ibrahim \n" );
 	
-	return 0; //indicate that program ended successfully
-}
+	return 0; /*indicate that program ended successfully*/
+
+} /* end function main*/

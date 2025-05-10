@@ -6,10 +6,11 @@
 
  //function main begins program execution
  int main(void){
+
    int num1; //first number to be read
    int num2; //second number to be read
 
-   printf("Enter first integer and I will tell you\n");
+   printf("Enter two integers, and I will tell you\n");
    printf("the relationship they satisfy: ");
 
    scanf("%d%d", &num1, &num2); //read two ints
