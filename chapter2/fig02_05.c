@@ -24,5 +24,4 @@
    printf("Sum is %d\n", integer1 + integer2);
 
    return 0; /* indicate that program ended successfully*/
-
- }
+ } /* end function main */
